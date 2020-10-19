@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+   
+}
+body{
+    background:#2C2C36 ;
+    
+}
+
+.nav-bg {
+    background: #2C2C36;
+}
+.nav-link{
+text-transform: capitalize;}
+
+p {
+    margin-right: 80px;
+}
+
+
+/* === BANNER SECTION === */
+
+h1 {
+    font-size: 60px;
+    margin-right: 120px;
+    text-transform: uppercase;
+}
+
+/* .banner-section {
+    background: #2C2C36;
+} */
+
+img {
+    height: 400px;
+    width: 500px;
+}
+
+.card {
+    background: #373740;
+}
+
+.card1 {
+    background: #373740;
+    border-radius: 6px;
+}
+
+.img1 {
+    height: 400px;
+    width: 500px;
+}
+
+.card p {
+    font-size: 14px;
+    padding-bottom: 20px;
+    margin-right: 0px;
+}
+
+h3 {
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.inline-email ul li{
+    display: inline-block;
+}
+
+.email {
+    border: 2px solid #393941;
+    background: transparent;
+    border-radius: 6px;
+    padding: 15px;
+    display: inline;
+}
+
+.rocket {
+    border: 2px solid #393941;
+    color: #393941;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.btn {
+    float: right;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+
+
+/* === part2 === */
+
+h2 {
+    font-size: 60px;
+    margin-right: 280px;
+    text-transform: uppercase;
+}
+
+.img-part2 {
+    height: 500px;
+}
+
+.img-cont {
+    height: 400px;
+    width: 500px;
+}
+
+
+/* ====== My Part finish === */
+
+
+.card-img-bottom{
+width: 430px;
+border-bottom-left-radius: 6px;
+border-bottom-right-radius: 6px;
+
+
+}
+.team-img{
+    height: 400px;
+    width: 300px;
+}
+
+.card-img{
+    width: 460px;
+
+}
+.goal{
+    text-transform: uppercase;
+}
+
+footer{
+    background: #393941;
+    width: 100%;
+    overflow: hidden;
+}
+
+a{
+ text-decoration: none;
+}
+
+.footer-menu .dfl {
+    display: inline-block;
+}
+
+
+.menua a{
+    padding: 10px;
+}
+.menub a{
+    padding: 10px;
+}
